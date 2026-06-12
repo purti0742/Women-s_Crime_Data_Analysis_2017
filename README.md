@@ -128,9 +128,6 @@ Top 5 cities ranked by cyber crime incidents, with distinct patterns in:
 - Interactive dashboards using Plotly/Dash
 - Geographical mapping of crime data
 
-## Author
-[Your Name]
-
 ## License
 This project is for educational purposes.
 
