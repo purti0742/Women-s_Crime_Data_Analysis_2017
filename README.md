@@ -50,7 +50,6 @@ crime-analysis/
 ├── data_123.csv                # Crime dataset
 ├── README.md                   # This file
 ├── requirements.txt            # Python dependencies
-└── RESUME_FINDINGS.md          # Resume-ready summary
 ```
 
 ## How to Run
